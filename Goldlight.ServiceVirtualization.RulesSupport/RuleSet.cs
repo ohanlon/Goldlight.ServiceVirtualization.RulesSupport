@@ -6,6 +6,6 @@ public class RuleSet
   [
     new EqualsRule(),
     new DoesNotEqualRule(),
-    new MatchesPatternRule()
+    new MatchesPatternRule(),
   ];
 }
