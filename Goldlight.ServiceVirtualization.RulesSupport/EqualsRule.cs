@@ -2,7 +2,7 @@
 
 public class EqualsRule : DataRule
 {
-  public EqualsRule() : base("EqualTo")
+  public EqualsRule() : base("Equals")
   {
     AllowedTypes.Add(ItemType.Integer);
     AllowedTypes.Add(ItemType.Boolean);
